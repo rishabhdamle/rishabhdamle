@@ -14,10 +14,13 @@ I'm a Full-Stack Developer with a passion for DevOps and Open Source. I always a
 ## 📈 GitHub Stats  
 ![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhdamle&show_icons=true&theme=radical)
 
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=rishabhdamle&style=flat&color=brightgreen)
+
 ## 🔗 Links  
 - [GitLab](https://gitlab.com/dwrushabh)  
 - [GitHub](https://github.com/rishabhdamle)  
 - [StackOverflow](https://stackoverflow.com/users/your-stackoverflow-id)  
 
 ## 📫 Get in touch  
-- **Email:** [dwrushabh@gmail.com](mailto:dwrushabh@gmail.com)  
+- **Email:** [dwrushabh@gmail.com](mailto:dwrushabh@gmail.com)
